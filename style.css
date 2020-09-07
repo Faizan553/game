@@ -1,0 +1,13 @@
+/* .img{
+   margin: 0 auto;
+   width: 600px;
+   height: 400px;
+} */
+.bg{
+   background-color: aqua;
+   position: relative;
+}
+.right{
+   position: absolute;
+   right: 375px;
+}
